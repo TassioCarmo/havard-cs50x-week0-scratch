@@ -34,3 +34,5 @@ https://scratch.mit.edu/projects/727993094/
 <h2>Algorithm</h2>
 <p>Algorithm is just step-by-step instructions for solving some problem incarnated in the world of computers by software.</p>
 
+<p>For example openning a book and start to search for a name page by page</p>
+
