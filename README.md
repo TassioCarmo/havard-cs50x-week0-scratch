@@ -39,8 +39,6 @@ https://scratch.mit.edu/projects/727993094/
 <h2>Pseudocode</h2>
 
 <p>The representation of an algorithm in human language such as english or portuguese</p>
-
-
   ```
   1  Pick up phone book </br>
   2  Open to middle of phone book</br>
