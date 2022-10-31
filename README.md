@@ -20,7 +20,7 @@ https://scratch.mit.edu/projects/727993094/
 <p>The standard mapping, ASCII, also includes lowercase letters and punctuation.</p>
 <img src="https://www.alpharithms.com/s3/assets/img/ascii-chart/ascii-table-alpharithms-scaled.jpg" alt="ASCII table" width="800" height="400"> 
 
-<h3>How can a computer have this mapping from numbers to letters, but still support numbers?</h3>
+<h4>How can a computer have this mapping from numbers to letters, but still support numbers?</h4>
 <p>Different file formats, Excel versus Photoshop versus Google Docs or the like, we shall interpret any patterns of zeros and ones as being maybe numbers for Excel, maybe letters in, like, a text messaging program or Google Docs, or maybe even colors of the rainbow in something like Photoshop and more. So it's context dependent.</p>
 
 <h2>Representing Images and videos</h2>
@@ -36,3 +36,22 @@ https://scratch.mit.edu/projects/727993094/
 
 <p>For example openning a book and start to search for a name page by page</p>
 
+<h2>Pseudocode</h2>
+
+<p>a Representation of an algorithm in human language such as english or portuguese</p>
+
+<code>
+  1  Pick up phone book
+  2  Open to middle of phone book
+  3  Look at page
+  4  If person is on page
+  5      Call person
+  6  Else if person is earlier in book
+  7      Open to middle of left half of book
+  8      Go back to line 3
+  9  Else if person is later in book
+  10     Open to middle of right half of book
+  11     Go back to line 3
+  12 Else
+  13     Quit
+</code>
