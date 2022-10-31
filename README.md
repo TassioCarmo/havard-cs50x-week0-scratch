@@ -18,7 +18,7 @@ https://scratch.mit.edu/projects/727993094/
 <h2>Representing letters with binary numbers</h2>
 <p>The letter “A”, for example, is the number 65, and “B” is 66, and so on. In binary, the letter “A” is the pattern 01000001. By using context, like the file format, different programs can interpret and display the same bits as numbers or text.</p>
 <p>The standard mapping, ASCII, also includes lowercase letters and punctuation.</p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ASCII-Table-wide.svg/2560px-ASCII-Table-wide.svg.png" alt="ASCII table" width="800" height="400"> 
+ <img src="https://www.alpharithms.com/s3/assets/img/ascii-chart/ascii-table-alpharithms-scaled.jpg" alt="ASCII table" width="800" height="400"> 
 
 
 
