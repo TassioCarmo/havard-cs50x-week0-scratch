@@ -40,7 +40,8 @@ https://scratch.mit.edu/projects/727993094/
 
 <p>a Representation of an algorithm in human language such as english or portuguese</p>
 
-<code>
+
+  ```
   1  Pick up phone book </br>
   2  Open to middle of phone book</br>
   3  Look at page</br>
@@ -54,4 +55,4 @@ https://scratch.mit.edu/projects/727993094/
   11     Go back to line 3</br>
   12 Else
   13     Quit
-</code>
+```
