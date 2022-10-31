@@ -13,7 +13,7 @@ https://scratch.mit.edu/projects/727993094/
   <li>101 = 5</li>
   <li>111 = 7</li>
 </ul>
-<p>Most computers use 8 bits at a time also known as <bold>Byte</bold>, like 00000011 for the number 3.</p>
+<p>Most computers use 8 bits at a time also known as <Bold>Byte</Bold>, like 00000011 for the number 3.</p>
 
 <h2>Representing letters with binary numbers</h2>
 <p>The letter “A”, for example, is the number 65, and “B” is 66, and so on. In binary, the letter “A” is the pattern 01000001. By using context, like the file format, different programs can interpret and display the same bits as numbers or text.</p>
