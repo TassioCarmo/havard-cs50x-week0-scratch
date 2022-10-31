@@ -23,5 +23,9 @@ https://scratch.mit.edu/projects/727993094/
 <h3>How can a computer have this mapping from numbers to letters, but still support numbers?</h3>
 <p>Different file formats, Excel versus Photoshop versus Google Docs or the like, we shall interpret any patterns of zeros and ones as being maybe numbers for Excel, maybe letters in, like, a text messaging program or Google Docs, or maybe even colors of the rainbow in something like Photoshop and more. So it's context dependent.</p>
 
+<h2>Representing Images and videos</h2>
+<p>With bits, we can map numbers to colors as well. There are many different systems to represent colors, but a common one is RGB, which represents colors by indicating the amount of red, green, and blue within each color, each number might be 8 bits, with 256 possible values.</p>
+
+<p>rgb(255,255,255)</p>
 
 
