@@ -13,7 +13,7 @@ https://scratch.mit.edu/projects/727993094/
   <li>101 = 5</li>
   <li>111 = 7</li>
 </ul>
-<p>Most computers use 8 bits (2^8  or 256 different values (including zero)) at a time also known as <Bold>Byte</Bold>, like 00000011 for the number 3.</p>
+<p>Most computers use 8 bits (2^8  or 256 different values (including zero)) at a time also known as <strong>Byte</strong>, like 00000011 for the number 3.</p>
 
 <h2>Representing letters with binary numbers</h2>
 <p>The letter “A”, for example, is the number 65, and “B” is 66, and so on. In binary, the letter “A” is the pattern 01000001. By using context, like the file format, different programs can interpret and display the same bits as numbers or text.</p>
@@ -57,14 +57,14 @@ https://scratch.mit.edu/projects/727993094/
   
 ```
 
-<p>Functions are actions or verbs that solve some smaller problem</p>
+<p><strong>Functions</strong> are actions or verbs that solve some smaller problem</p>
 <ul>
   <li>Pick</li>
   <li>Open</li>
   <li>Look</li>
 </ul>
 
-<p>Conditionals are things that you do conditionally based on the answer to some question.</p>
+<p><strong>Conditionals</strong> are things that you do conditionally based on the answer to some question.</p>
 
 <ul>
   <li>If</li>
@@ -72,9 +72,15 @@ https://scratch.mit.edu/projects/727993094/
   <li>Else</li>
 </ul>
 
-<p>That question being a boolean expression in other words true or false</p>
+<p>That question being a <strong>boolean expression</strong> in other words true or false</p>
 
 <ul>
   <li>person is on page? true or false</li>
   <li>person is earlier in book? true or false </li>
+</ul>
+
+<p>Loops a cycle or directive that tells us to do something again and again</p>
+
+<ul>
+  <li>pGo back to line 3</li>
 </ul>
