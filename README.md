@@ -28,4 +28,9 @@ https://scratch.mit.edu/projects/727993094/
 
 <p>rgb(255,255,255)</p>
 
+<p>Videos are sequences of many images, changing multiple times a second to give us the appearance of motion,</p>
+<p>Music can be represented with bits, too. MIDI is one such format which represents music with numbers for each of the notes and their duration and volume.</p>
+
+<h2>Algorithm</h2>
+<p>Algorithm is just step-by-step instructions for solving some problem incarnated in the world of computers by software.</p>
 
