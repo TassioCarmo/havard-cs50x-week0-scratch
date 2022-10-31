@@ -62,10 +62,17 @@ https://scratch.mit.edu/projects/727993094/
   <li>Look</li>
 </ul>
 
-<p>Conditionals are things that you do conditionally based on the answer to some question. true or false</p>
+<p>Conditionals are things that you do conditionally based on the answer to some question.</p>
 
 <ul>
   <li>If</li>
   <li>Else if</li>
   <li>Else</li>
+</ul>
+
+<p>That question being a boolean expression in other words true or false</p>
+
+<ul>
+  <li>person is on page? true or false</li>
+  <li>person is earlier in book? true or false </li>
 </ul>
