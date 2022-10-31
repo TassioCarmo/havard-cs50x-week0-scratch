@@ -38,7 +38,7 @@ https://scratch.mit.edu/projects/727993094/
 
 <h2>Pseudocode</h2>
 
-<p>a Representation of an algorithm in human language such as english or portuguese</p>
+<p>The representation of an algorithm in human language such as english or portuguese</p>
 
 
   ```
