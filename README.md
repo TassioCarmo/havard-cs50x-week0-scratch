@@ -20,8 +20,8 @@ https://scratch.mit.edu/projects/727993094/
 <p>The standard mapping, ASCII, also includes lowercase letters and punctuation.</p>
 <img src="https://www.alpharithms.com/s3/assets/img/ascii-chart/ascii-table-alpharithms-scaled.jpg" alt="ASCII table" width="800" height="400"> 
 
-<h3>How can a computer have this mapping from numbers to letters, but still support numbers?<h3>
- <p>different file formats, Excel versus Photoshop versus Google Docs or the like, we shall interpret any patterns of zeros and ones as being maybe numbers for Excel, maybe letters in, like, a text messaging program or Google Docs, or maybe even colors of the rainbow in something like Photoshop and more. So it's context dependent.</p>
+<h3>How can a computer have this mapping from numbers to letters, but still support numbers?</h3>
+<p>Different file formats, Excel versus Photoshop versus Google Docs or the like, we shall interpret any patterns of zeros and ones as being maybe numbers for Excel, maybe letters in, like, a text messaging program or Google Docs, or maybe even colors of the rainbow in something like Photoshop and more. So it's context dependent.</p>
 
 
 
