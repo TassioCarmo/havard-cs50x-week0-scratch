@@ -82,5 +82,5 @@ https://scratch.mit.edu/projects/727993094/
 <p>Loops a cycle or directive that tells us to do something again and again</p>
 
 <ul>
-  <li>pGo back to line 3</li>
+  <li>Go back to line 3</li>
 </ul>
