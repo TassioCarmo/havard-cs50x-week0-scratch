@@ -54,3 +54,17 @@ https://scratch.mit.edu/projects/727993094/
   12 Else
   13     Quit
 ```
+<p>Functions are actions or verbs that solve some smaller problem</p>
+<ul>
+  <li>Pick</li>
+  <li>Open</li>
+  <li>Look</li>
+</ul>
+
+<p>Conditionals are things that you do conditionally based on the answer to some question. true or false</p>
+
+<ul>
+  <li>If</li>
+  <li>Else if</li>
+  <li>Else</li>
+</ul>
