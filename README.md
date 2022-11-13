@@ -78,7 +78,7 @@ That question being a <strong>boolean expression</strong> in other words true or
 
 
 - person is on page? true or false
-- >person is earlier in book? true or false 
+- person is earlier in book? true or false 
 Loops a cycle or directive that tells us to do something again and again
 
 Go back to line 3
