@@ -27,22 +27,22 @@ The standard mapping, ASCII, also includes lowercase letters and punctuation.
 ## How can a computer have this mapping from numbers to letters, but still support numbers?
 <p>Different file formats, Excel versus Photoshop versus Google Docs or the like, we shall interpret any patterns of zeros and ones as being maybe numbers for Excel, maybe letters in, like, a text messaging program or Google Docs, or maybe even colors of the rainbow in something like Photoshop and more. So it's context dependent.</p>
 
-<h2>Representing Images and videos</h2>
-<p>With bits, we can map numbers to colors as well. There are many different systems to represent colors, but a common one is RGB, which represents colors by indicating the amount of red, green, and blue within each color, each number might be 8 bits, with 256 possible values.</p>
+## Representing Images and videos
+With bits, we can map numbers to colors as well. There are many different systems to represent colors, but a common one is RGB, which represents colors by indicating the amount of red, green, and blue within each color, each number might be 8 bits, with 256 possible values.
 
-<p>rgb(255,255,255)</p>
+rgb(255,255,255)
 
-<p>Videos are sequences of many images, changing multiple times a second to give us the appearance of motion,</p>
-<p>Music can be represented with bits, too. MIDI is one such format which represents music with numbers for each of the notes and their duration and volume.</p>
+Videos are sequences of many images, changing multiple times a second to give us the appearance of motion,
+Music can be represented with bits, too. MIDI is one such format which represents music with numbers for each of the notes and their duration and volume.
 
-<h2>Algorithm</h2>
-<p>Algorithm is just step-by-step instructions for solving some problem incarnated in the world of computers by software.</p>
+## Algorithm
+Algorithm is just step-by-step instructions for solving some problem incarnated in the world of computers by software.
 
-<p>For example openning a book and start to search for a name page by page</p>
+For example openning a book and start to search for a name page by page
 
-<h2>Pseudocode</h2>
+## Pseudocode
 
-<p>The representation of an algorithm in human language such as english or portuguese</p>
+The representation of an algorithm in human language such as english or portuguese
 
   ```
   1  Pick up phone book
@@ -61,30 +61,25 @@ The standard mapping, ASCII, also includes lowercase letters and punctuation.
   
 ```
 
-<p><strong>Functions</strong> are actions or verbs that solve some smaller problem</p>
-<ul>
-  <li>Pick</li>
-  <li>Open</li>
-  <li>Look</li>
-</ul>
+<strong>Functions</strong> are actions or verbs that solve some smaller problem
 
-<p><strong>Conditionals</strong> are things that you do conditionally based on the answer to some question.</p>
+ - Pick
+ - Open
+ - Look
 
-<ul>
-  <li>If</li>
-  <li>Else if</li>
-  <li>Else</li>
-</ul>
+<strong>Conditionals</strong> are things that you do conditionally based on the answer to some question.
 
-<p>That question being a <strong>boolean expression</strong> in other words true or false</p>
 
-<ul>
-  <li>person is on page? true or false</li>
-  <li>person is earlier in book? true or false </li>
-</ul>
+- If
+- Else if
+- Else
 
-<p>Loops a cycle or directive that tells us to do something again and again</p>
+That question being a <strong>boolean expression</strong> in other words true or false
 
-<ul>
-  <li>Go back to line 3</li>
-</ul>
+
+- person is on page? true or false
+- >person is earlier in book? true or false 
+Loops a cycle or directive that tells us to do something again and again
+
+Go back to line 3
+
